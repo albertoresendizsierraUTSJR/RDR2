@@ -1,0 +1,24 @@
+body {
+    background-color: #FF0000; /* Fondo rojo */
+    color: #FFFFFF; /* Texto blanco */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header img {
+    width: 100%;
+    max-width: 300px; /* El tamaño del título sigue igual */
+}
+
+section {
+    margin: 20px auto;
+}
+
+#images img {
+    width: 300px;  /* Todas las imágenes tendrán el mismo tamaño */
+    height: 200px; /* Ajustamos el tamaño */
+    object-fit: cover; /* Asegura que las imágenes no se deformen */
+    margin: 10px;
+}

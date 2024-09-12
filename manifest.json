@@ -1,0 +1,21 @@
+{
+  "name": "Red Dead Redemption 2 App",
+  "short_name": "RDR2",
+  "description": "Sitio de Red Dead Redemption 2 con imágenes y videos.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#FF0000",
+  "theme_color": "#FF0000",
+  "icons": [
+    {
+      "src": "img/titulo1-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/titulo1-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
